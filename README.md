@@ -5,7 +5,9 @@ An AI-powered debate coaching agent built on **Azure AI Foundry + Groq (Llama 3.
 
 ---
 
-https://github.com/user-attachments/assets/187377c7-c16d-494d-9795-90ba70a2bb71
+
+https://github.com/user-attachments/assets/a7003a5a-a232-4937-a55a-905652cc0c13
+
 
 ## 🎯 What It Does
 
