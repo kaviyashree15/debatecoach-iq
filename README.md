@@ -5,6 +5,8 @@ An AI-powered debate coaching agent built on **Azure AI Foundry + Groq (Llama 3.
 
 ---
 
+https://github.com/user-attachments/assets/187377c7-c16d-494d-9795-90ba70a2bb71
+
 ## 🎯 What It Does
 
 DebateCoach IQ helps students and professionals become better debaters using AI:
@@ -141,5 +143,4 @@ VITE_DEMO_MODE=             # true/false
 MIT
 
 
-https://github.com/user-attachments/assets/187377c7-c16d-494d-9795-90ba70a2bb71
 
