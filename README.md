@@ -1,11 +1,3 @@
-
-
-https://github.com/user-attachments/assets/25404f9b-bc2f-404b-9a0a-9123c26d82cd
-
-
-
-
-
 # ⚡ DebateCoach IQ
 > **Agents League Hackathon 2026** | 🧠 Reasoning Agents Track
 
@@ -147,3 +139,7 @@ VITE_DEMO_MODE=             # true/false
 ## 📄 License
 
 MIT
+
+
+https://github.com/user-attachments/assets/187377c7-c16d-494d-9795-90ba70a2bb71
+
