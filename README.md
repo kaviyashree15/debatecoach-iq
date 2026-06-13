@@ -1,3 +1,11 @@
+
+
+https://github.com/user-attachments/assets/25404f9b-bc2f-404b-9a0a-9123c26d82cd
+
+
+
+
+
 # ⚡ DebateCoach IQ
 > **Agents League Hackathon 2026** | 🧠 Reasoning Agents Track
 
